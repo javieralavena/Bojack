@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import BusquedaView from '../views/BusquedaView.vue'
 import HomeView from '../views/HomeView.vue'
+import Tabla from '../components/Tabla.vue'
 
 Vue.use(VueRouter)
 
@@ -10,6 +12,18 @@ const routes = [
     name: 'home',
     component: HomeView
   },
+  {
+    path: '/busqueda',
+    name: 'busqueda',
+    component: BusquedaView
+  },
+  {
+    path: '/tabla',
+    name: 'tabla',
+    component: Tabla
+
+  },
+  
   {
     path: '/about',
     name: 'about',

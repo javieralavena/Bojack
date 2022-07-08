@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "nombre": "Bojack Horseman",
+        "image": "https://indiehoy.com/wp-content/uploads/2020/07/bojack-horseman.jpg",
+        "raza": "Caballo",
+        "caracteristicas": "Aunque es un caballo con una tormentosa vida personal, incapaz de reconocer abiertamente sus problemas o de comprometerse en una relación, también es alguien capaz de tomar decisiones inteligentes y que quiere ser feliz."
+    },
+    {
+        "id": "2",
+        "nombre": "Diane Nguyen",
+        "image": "https://as01.epimg.net/epik/imagenes/2020/06/29/portada/1593444522_052074_1593445403_noticia_normal.jpg",
+        "raza": "Humana",
+        "caracteristicas": "Es una mujer vietnamo-americana de Boston, feminista de tercera ola e intelectual incomprendida que vive con su pareja, el actor y antigua estrella de telecomedias Mr. Peanutbutter."
+    },
+    {
+        "id": "3",
+        "nombre": "Mr. Peanutbutter",
+        "image": "https://i.ytimg.com/vi/r6SUtUDQts8/mqdefault.jpg",
+        "raza": "Perro",
+        "caracteristicas": "Es un labrador retriever, pareja de Diane y amienemigo de BoJack. Su personalidad es la antítesis de BoJack, al ser alguien positivo, amistoso y extremadamente inocente. Trata de mantener una buena relación con BoJack."
+    },
+    {
+        "id": "4",
+        "nombre": "Princess Carolyn",
+        "image": "https://p4.wallpaperbetter.com/wallpaper/224/444/1021/tv-show-bojack-horseman-princess-carolyn-wallpaper-preview.jpg",
+        "raza": "Gato",
+        "caracteristicas": "Es una gata persa rosa, agente de BoJack y su exnovia. Tiene un carácter manipulador y agresivo, en especial cuando desempeña su trabajo, y muchos problemas para separar la vida personal de la profesional."
+    },
+    {
+        "id": "5",
+        "nombre": "Todd Chávez",
+        "image": "https://i.pinimg.com/originals/21/81/16/218116a11231d5bd8b91a9ddf7f14979.png",
+        "raza": "Humano",
+        "caracteristicas": "Joven de 24 años sin trabajo ni propósitos en la vida, que se instaló en casa de BoJack después de una fiesta. Al no ser capaz de conseguir que se marchara, Todd vive gratis en el sofá de su sala desde hace cinco años."
+    },
+    {
+        "id": "6",
+        "nombre": "Sarah Lynn",
+        "image": "https://y.yarn.co/18113baf-5c72-41c1-aa5a-38a92042b154_screenshot.jpg",
+        "raza": "Humana",
+        "caracteristicas": "Era una estrella del pop con problemas y ex actriz infantil que interpretó a la precoz hija adoptiva más joven de Bojack, Sabrina, en el programa de televisión ficticio de los años 90 Horsin' Around."
+    }
+]
